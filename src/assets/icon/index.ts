@@ -1,0 +1,12 @@
+export { default as ICBackDark } from './ic-back-dark.svg';
+export { default as ICBackLight } from './ic-back-light.svg';
+export { default as ICAddPhoto } from './ic-add-photo.svg';
+export { default as ICRemovePhoto } from './ic-remove-photo.svg';
+export { default as ICDoctor } from './ic-doctor.svg';
+export { default as ICMessage } from './ic-message.svg';
+export { default as ICHospital } from './ic-hospital.svg';
+export { default as ICDoctorActive } from './ic-doctor-active.svg';
+export { default as ICMessageActive } from './ic-message-active.svg';
+export { default as ICHospitalActive } from './ic-hospital-active.svg';
+export { default as ICStar } from './ic-star.svg';
+export { default as ICNext } from './ic-next.svg';

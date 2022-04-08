@@ -1,0 +1,10 @@
+export { default as DummyUser } from './user.png';
+export { default as DummyDoctor1 } from './doctor1.png';
+export { default as DummyDoctor2 } from './doctor2.png';
+export { default as DummyDoctor3 } from './doctor3.png';
+export { default as DummyNews1 } from './news1.png';
+export { default as DummyNews2 } from './news2.png';
+export { default as DummyNews3 } from './news3.png';
+export { default as DummyHospital1 } from './hospital1.png';
+export { default as DummyHospital2 } from './hospital2.png';
+export { default as DummyHospital3 } from './hospital3.png';
